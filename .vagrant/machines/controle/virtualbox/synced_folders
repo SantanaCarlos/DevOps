@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/configs":{"owner":"root","group":"root","guestpath":"/var/configs","hostpath":"D:/VMS/configs","disabled":false,"__vagrantfile":true}}}
